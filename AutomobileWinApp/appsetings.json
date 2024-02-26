@@ -1,0 +1,5 @@
+{
+  "ConnectionString": {
+    "MyStockDB": "Server=DESKTOP-JU635VC;uid=sa;pwd=123;database=MyStock; TrustServerCertificate=True"
+  }
+}
